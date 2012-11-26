@@ -1,0 +1,16 @@
+{
+  "name": "calendar-skeleton",
+  "repo": "anthonyshort/calendar-skeleton",
+  "description": "Template for anthonyshort/calendar",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "template.js"
+  ],
+  "styles": [
+    "calendar-skeleton.css"
+  ]
+}
